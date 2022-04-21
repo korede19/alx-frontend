@@ -1,0 +1,21 @@
+/* Effortless transitions when scrolling */
+html{
+scroll-behavior: smooth;
+}
+
+/* css declarations */
+body{
+backgroud-color: #161616;
+}
+
+.visually-hidden{
+display:none;
+}
+
+.card-category{
+backgroud-color: #D73953;
+}
+
+.section-tagline{
+background-color: #D73953;
+}
