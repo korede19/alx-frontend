@@ -1,0 +1,41 @@
+/* Effortless transitions when scrolling */
+html{
+scroll-behavior: smooth;
+}
+
+/* css declarations */
+body{
+color: text-color;
+font-family: font-family-base
+}
+
+a{
+color: #161616;
+}
+
+.visually-hidden{
+display: none;
+}
+
+.card-category{
+color: color-primary;
+}
+
+.section-tagline{
+color: color-primary;
+}
+
+:root{
+--color-primary: #d73953;
+--color-black: #090909;
+--color-white: #ffffff;
+--color-light-grey: #f3f3f3;
+--color-dark-grey: #353535;
+--text-color: color-black;
+--font-family-base: sans-serif;
+--font-family-title: sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+font-family: font-family-title;
+}
