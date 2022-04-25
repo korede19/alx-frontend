@@ -34,6 +34,10 @@ color: color-primary;
 --text-color: color-black;
 --font-family-base: sans-serif;
 --font-family-title: sans-serif;
+--first-choice-font: Helvetica Neue;
+--second-choice-font: Helvetica;
+--third-choice-font: Arial;
+--last-choice-font: sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6{
