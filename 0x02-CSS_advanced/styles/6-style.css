@@ -9,7 +9,7 @@ body{
 color: text-color;
 font-family: font-family-base;
 font-size: 1.6rem;
-font-weight: font-weight-regular;
+font-weight: 400;
 }
 
 a{
@@ -46,7 +46,7 @@ color: color-primary;
 --font-weight-bold: 700;
 }
 
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3, h4, h5, h6 {
 font-family: font-family-title;
-font-weight: font-weight-bold;
+font-weight: 700;
 }
