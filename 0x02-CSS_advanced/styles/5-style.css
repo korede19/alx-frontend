@@ -8,7 +8,7 @@ font-size: 62.5%;
 body{
 color: text-color;
 font-family: font-family-base;
-font-size: font-size-medium;
+font-size: 1.6rem;
 }
 
 a{
@@ -46,6 +46,5 @@ color: color-primary;
 
 h1, h2, h3, h4, h5, h6{
 font-family: font-family-title;
-
 }
 
