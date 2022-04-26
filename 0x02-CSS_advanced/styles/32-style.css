@@ -192,7 +192,7 @@ a:active {
   color: var(--button-hover-color);
   text-decoration: var(--button-hover-text-decoration);
   background: var(--button-hover-background);
-  transition-duration: var(--transition-duration);
+  transition-duration: var(--transition-duration) var(--transition-cubic-bezier);
   transition-property: color, background-color;
 }
 
