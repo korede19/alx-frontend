@@ -1,34 +1,32 @@
-/* Effortless transitions when scrolling */
-html{
-scroll-behavior: smooth;
+:root {
+  --color-primary: #d73953;
+  --color-black: #090909;
+  --color-white: #ffffff;
+  --color-light-grey: #f3f3f3;
+  --color-dark-grey: #353535;
+  --text-color: var(--color-black);
 }
 
-/* css declarations */
-body{
-color: text-color;
+html {
+  scroll-behavior: smooth;
 }
 
-a{
-color: #161616;
+body {
+  color: var(--text-color);
 }
 
-.visually-hidden{
-display: none;
+a {
+  color: var(--text-color);
 }
 
-.card-category{
-color: color-primary;
+.visually-hidden {
+  display: none;
 }
 
-.section-tagline{
-color: color-primary;
+.card-category {
+  color: var(--color-primary);
 }
 
-:root{
---color-primary: #d73953;
---color-black: #090909;
---color-white: #ffffff;
---color-light-grey: #f3f3f3;
---color-dark-grey: #353535;
---text-color: color-black;
+.section-tagline {
+  color: var(--color-primary);
 }
